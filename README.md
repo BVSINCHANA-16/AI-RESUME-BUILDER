@@ -218,7 +218,7 @@ npm run dev
 
 # 🌐 Live Website
 
-https://BVSINCHANA-16.github.io/Ai-Resume-Builder
+https://BVSINCHANA-16.github.io/AI-RESUME-BUILDER/
 ---
 
 # 🔮 Future Roadmap
